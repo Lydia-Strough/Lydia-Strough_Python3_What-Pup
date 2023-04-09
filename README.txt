@@ -1,4 +1,4 @@
-TITLE: What-Pup (Lydia Strough, WGU Computer Science Capstone)
+TITLE: What Pup? (Lydia Strough, WGU Computer Science Capstone)
 
 PURPOSE: 
 
