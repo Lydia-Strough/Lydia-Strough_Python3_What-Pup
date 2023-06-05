@@ -12,4 +12,4 @@ ENVIRONMENT:
   API: Gradio.app
   The application is permanently hosted in a HuggingFace.co “public space”
 
-DIRECTIONS: Click the link below to access the application on HuggingFace (https://huggingface.co/spaces/Lydia-Strough/What-Pup). For all other information regarding this project, including code, data and model reports, user guides, and more, see "Lydia_Strough_C964_Task2_Documentation.docx".
+DIRECTIONS: Click the link below to access the application on HuggingFace (https://huggingface.co/spaces/Lydia-Strough/What-Pup). See "USER GUIDE.docx" for an application user guide. For all other information regarding this project, including code, data and model reports, see "Lydia_Strough_C964_Task2_Documentation.docx".
